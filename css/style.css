@@ -1,0 +1,132 @@
+a {
+	color :black;
+}
+
+a.blue {
+	color : blue;
+}
+
+/* navbar */
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+    border-radius: 0px;
+    z-index: 10007;
+}
+
+/* Content */
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.mtop150 {
+	margin-top: 150px;
+}
+
+.mtop50 {
+	margin-top: 50px;
+}
+
+/* FIRST-SECTION */
+#first {
+  background: url(../images/1.jpg) no-repeat center center;
+  background-attachment: fixed; 
+  display: table;
+  height: 100%;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* EDUCATIONAL BACKGROUND */
+#educ {
+	height: 450px;
+}
+#test {
+  background: url(../images/3.jpg) no-repeat center center; 
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* SECOND BACKGROUND */
+#second {
+  background: url(../images/8.jpg) no-repeat center center;
+  background-attachment: fixed; 
+  display: table;
+  height: 100%;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* SKILLS SET */
+#skills {
+	height: 450px;
+}
+#test2 {
+  background: url(../images/2.jpg) no-repeat center center; 
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* THIRD BACKGROUND */
+#third {
+  background: url(../images/4.jpg) no-repeat center center;
+  background-attachment: fixed; 
+  display: table;
+  height: 100%;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* SKILLS SET */
+#projects {
+	height: 450px;
+}
+#test3 {
+  background: url(../images/9.jpg) no-repeat center center; 
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+footer {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+
+
+
+
