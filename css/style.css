@@ -23,8 +23,8 @@ html, body {
   width: 100%;
 }
 
-.mtop150 {
-	margin-top: 130px;
+.mtop100 {
+	margin-top: 100px;
 }
 
 .mtop50 {
@@ -33,7 +33,7 @@ html, body {
 
 /* FIRST-SECTION */
 #first {
-  background: url(../images/1.jpg) no-repeat center center;
+  background: url(../images/12.jpg) no-repeat center center;
   background-attachment: fixed; 
   display: table;
   height: 100%;
